@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-ollama
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+chromadb
+pypdf
+tavily-python
+python-dotenv
+requests
